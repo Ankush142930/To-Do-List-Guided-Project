@@ -1,8 +1,4 @@
-Sure, here's a sample README file for your Guided To-Do List project using React.js:
-
----
-
-# Guided To-Do List
+# To-Do List (Guided Project)
 
 Welcome to the Guided To-Do List project! This is a simple yet powerful to-do list application built using React.js. It aims to help users manage their tasks efficiently with a guided user interface.
 
@@ -14,7 +10,7 @@ Welcome to the Guided To-Do List project! This is a simple yet powerful to-do li
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [https://ankush142930.github.io/To-Do-List-Guided-Project/](#).
 
 ## Getting Started
 
